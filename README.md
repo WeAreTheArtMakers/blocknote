@@ -1,5 +1,3 @@
-You can see a demo of this repo on Replit : blocknote.merkezmerak.repl.co
-
 ## Getting Started
 
 `npm install` to install dependencies
